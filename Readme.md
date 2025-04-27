@@ -1,4 +1,4 @@
-#Path Planner 
+Path Planner 
 
 1. There is this  file ./test.sh which runs three commands 
         - For path with normal conditiohs 
