@@ -90,8 +90,8 @@ def plot_test_case(test_num, show_visibility=True):
                 [(5, 6), (6, 8), (8, 8), (9, 6), (7, 5)],
                 [(12, 4), (13, 6), (15, 6), (16, 4), (14, 3)]
             ],
-            "start": (4 , 6 ),
-            "goal": (16, 5)
+            "start": (1 , 1 ),
+            "goal": (10, 8)
         },
         3: {
             "title": "Test Case 3: Narrow passage between obstacles",
@@ -184,7 +184,7 @@ def create_comparison_plot():
                 [(12, 4), (13, 6), (15, 6), (16, 4), (14, 3)]
             ],
             "start": (1, 1),
-            "goal": (15, 7)
+            "goal": (10, 8)
         },
         3: {
             "title": "Test Case 3: Narrow passage",
